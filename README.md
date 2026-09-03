@@ -5,4 +5,4 @@ CSCI271_GitIntro_NicChavez
 This is my very first repository on GitHub!
 **Author:** [Gilberto Nicolas Chavez]
 **Date Created:** Sept 02, 2026
-**Purpose:** Practicing GitHub basics, including creating a repository and a README file.
+**Purpose:** Practicing creation of new branch. Test: Edit README file.
